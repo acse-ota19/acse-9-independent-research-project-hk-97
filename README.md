@@ -1,5 +1,10 @@
 ![Imperial Logo](Images/logowide.png)
 
 <p align="center">
-  <center> <h1> MSc Applied Computational Science and Engineering </h1> </center>
+  <b> MSc Applied Computational Science and Engineering </b>   
 </p>
+
+<p align="center">
+  Independent Research Project 2018/19
+</p>
+
