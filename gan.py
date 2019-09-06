@@ -23,14 +23,9 @@ class GAN():
         self.features = datashape[1]
         self.seq_length = datashape[2]
         
-        self.channels = 3
         self.input_shape= (self.features, self.seq_length, 1)
         self.latent_dim = 100
-        self.disc_loss = []
-        self.disc_loss2 = []
-        self.gen_loss =[]
         
-#        optimizer = Adam(0.0002, 0.9)
 
         ### Build network
         self.discriminator = self.build_discriminator()
